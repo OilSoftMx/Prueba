@@ -11,7 +11,17 @@ namespace HolaMundoConsola
         static void Main(string[] args)
         {
             Console.WriteLine("Hola mundo...");
-            Console.WriteLine("Hola mundo con cambios...");
+
+            Libro miLibro = new Libro
+            {
+                Titulo="Ojos de Fuego",
+                Autor="Stephen King"
+            };
+
+            Console.WriteLine();
+            Console.WriteLine($"El libro es {miLibro.Titulo} de {miLibro.Autor}.");
+            Console.WriteLine();
+            Console.WriteLine("Pulse <Enter> para terminar...");
             Console.ReadLine();
         }
     }
