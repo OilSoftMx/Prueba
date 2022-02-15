@@ -1,3 +1,7 @@
 Este archivo se crea para probar la resolucion de conflictos
 
 Se agrega esta linea en el archivo local
+
+
+Se agrega esta línea en el repositorio remoto
+
