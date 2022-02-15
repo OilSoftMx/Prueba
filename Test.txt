@@ -1,3 +1,0 @@
-Este es un archivo de prueba para verificar el pull.
-
-Esta línea ha cambiado directamente en el repositorio
